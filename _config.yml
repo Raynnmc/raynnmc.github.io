@@ -119,10 +119,10 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  about: /about/
+  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -373,7 +373,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 39d60b2856519562399aa2e113e4e606
 
 # Duoshuo ShortName
 #duoshuo_shortname:
