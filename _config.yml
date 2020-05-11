@@ -380,7 +380,7 @@ baidu_analytics: 39d60b2856519562399aa2e113e4e606
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: https-raynnmc-github-io
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -435,12 +435,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  enable: true
+  clientID: c24c305ee2eceb80a092
+  clientSecret: 4f4e41d00f6570d35ebdaf72e740d2d1c793a604
+  repo: raynnmc.github.io
+  owner: raynnmc
+  admin: raynnmc
 
 # Baidu Share
 # Available value:
