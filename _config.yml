@@ -455,6 +455,9 @@ gitalk:
 #add_this_id:
 
 # Share
+baidushare: true
+
+# Share
 #duoshuo_share: true
 
 # Google Webmaster tools verification setting
