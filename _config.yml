@@ -441,8 +441,8 @@ gitalk:
   repo: raynnmc.github.io
   owner: raynnmc
   admin: raynnmc
-  id: location.pathname
-  distractionFreeMode: false
+  #id: location.pathname
+  #distractionFreeMode: false
 
 # Baidu Share
 # Available value:
