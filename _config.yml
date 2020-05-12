@@ -442,7 +442,7 @@ gitalk:
   owner: raynnmc
   admin: raynnmc
   id: location.pathname
-#  distractionFreeMode: true
+  distractionFreeMode: false
 
 # Baidu Share
 # Available value:
