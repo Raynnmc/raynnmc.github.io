@@ -32,7 +32,7 @@
         repo: '{{ site.gitalk.repo }}',
         owner: '{{ site.gitalk.owner }}',
         admin: ['{{ site.gitalk.owner }}'],
-        id: location.pathname,
+        id: md5(location.pathname),
         labels: ['gitalk'],
         perPage: 50,
         distractionFreeMode: false
