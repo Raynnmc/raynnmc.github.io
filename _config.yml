@@ -168,14 +168,13 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: fonts.useso.com
+  host:
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-  #  family: Lato
-    family: Vollkorn, Palatino, SimSun
+    family: Lato
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -200,7 +199,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: Consolas, Monaco
+    family:
     size:
 
 
@@ -330,7 +329,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
