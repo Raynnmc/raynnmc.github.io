@@ -32,7 +32,7 @@ class BomInfo():
 
 使用 `QT Designer` 设计了 BOM 生成软件的用户界面，并使用 `Python` 编写了业务逻辑。
 
-![bom_creator_ui](http://raynnmc.github.io/img/bom_creator_ui.jpeg)
+![bom_creator_ui](http://raynnmc.github.io/image/bom_creator/bom_creator_ui.jpg)
 
 如图所示，用户可指定装配体文件路径、是否保存缩略图、缩略图保存路径、产品总套数等信息。界面右上方的 `运行` 按钮用于触发遍历装配体特征树及获取缩略图的功能模块，`导出` 按钮用于触发将 BOM 信息保存为 `.xlsx` 或 `.xml` 格式文件的功能模块。同时，在软件的运行过程中，运用多线程编程在软件的主窗口中动态实时显示当前运行状态等信息。
 
@@ -169,11 +169,11 @@ def save_preview_png(png_dir):
 
 当用户选择保存缩略图时，自动导出的 `Excel` 表格效果图如下：
 
-![bom_creator_excel_with_png](http://raynnmc.github.io/img/bom_creator_excel_with_png.jpeg)
+![bom_creator_excel_with_png](http://raynnmc.github.io/image/bom_creator/bom_creator_excel_with_png.jpg)
 
 当用户选择不保存缩略图时，自动导出的 `Excel` 表格效果图如下：
 
-![bom_creator_excel_no_png](http://raynnmc.github.io/img/bom_creator_excel_no_png.jpeg)
+![bom_creator_excel_no_png](http://raynnmc.github.io/image/bom_creator/bom_creator_excel_no_png.jpg)
 
 以上两图均未作任何手动处理。
 
