@@ -40,7 +40,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 启动 Treehouse 2018 后，其初始用户界面如图 1‑1 所示。
 
-![Treehouse 2018 初始用户界面](http://raynnmc.github.io/image/treehouse/1-1.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/1-1.PNG" alt="Treehouse 2018 初始用户界面" style="zoom:67%;" />
 
 #### 工具栏与映射框
 
@@ -50,7 +50,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 零件、装配体和工程图节点显示实例数、文件名称和配置名称等信息。要查看这些显示，可将指针在节点上稍作停留，如图 1‑2 所示。
 
-![节点信息构成](http://raynnmc.github.io/image/treehouse/1-2.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/1-2.PNG" alt="节点信息构成" style="zoom:67%;" />
 
 其中：
 
@@ -70,7 +70,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 #### 其他用户界面元素
 
-![其他用户界面元素](http://raynnmc.github.io/image/treehouse/1-3.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/1-3.PNG" alt="其他用户界面元素" style="zoom:67%;" />
 
 其中：
 
@@ -97,7 +97,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 ### 典型过程
 
-![基于现有设备模块迅速搭建项目方案的典型过程](http://raynnmc.github.io/image/treehouse/2-1.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/2-1.PNG" alt="基于现有设备模块迅速搭建项目方案的典型过程" style="zoom:67%;" />
 
 ### 示例
 
@@ -107,19 +107,19 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 2. 运行 Treehouse，从节点模板中拖入装配体作为总装，命名为“方案-X客户-智能激光焊接系统”，如图 2‑2 所示。
 
-   ![拖入总装节点并命名](http://raynnmc.github.io/image/treehouse/2-2.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/2-2.PNG" alt="拖入总装节点并命名" style="zoom:67%;" />
 
 3. 点击 Treehouse 左下角的“现有文件”或者使用 Windows 的资源管理器找到各模块的三维模型，并拖动文件至总装节点上，添加模块节点并编辑数量信息。全部添加完毕后，文件结构如图 2‑3 所示。
 
-   ![搭建文件结构树](http://raynnmc.github.io/image/treehouse/2-3.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/2-3.PNG" alt="搭建文件结构树" style="zoom:67%;" />
 
 4. 指定总装节点的输出路径（右键，属性中进行编辑），并将文件结构树输出至 SolidWorks 中，结果如图 2‑4 所示。注意：输出前需先打开 SolidWorks 软件，避免程序崩溃。
 
-   ![导出结构树至 SolidWorks](http://raynnmc.github.io/image/treehouse/2-4.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/2-4.PNG" alt="导出结构树至 SolidWorks" style="zoom:67%;" />
 
 5. 在 SolidWorks 中调整各设备模块之间的位置关系，完成方案三维模型搭建，如图 2‑5 所示。
 
-   ![调整模块位置，完成三维搭建](http://raynnmc.github.io/image/treehouse/2-5.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/2-5.PNG" alt="调整模块位置，完成三维搭建" style="zoom:67%;" />
 
 6. 由 Treehouse 导出方案配置表。
 
@@ -135,7 +135,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 #### 典型过程
 
-![基于已有模块和空白模块进行新产品开发规划](http://raynnmc.github.io/image/treehouse/2-6-0.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/2-6-0.PNG" alt="基于已有模块和空白模块进行新产品开发规划" style="zoom:67%;" />
 
 #### 示例
 
@@ -145,7 +145,7 @@ Treehouse 是 SolidWorks 2015 版推出的实用工具，提供可视的装配�
 
 2. 运行 Treehouse，搭建产品结构树，如图 2‑6 所示。
 
-   ![中性笔的产品结构树规划](http://raynnmc.github.io/image/treehouse/2-6.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/2-6.PNG" alt="中性笔的产品结构树规划" style="zoom:67%;" />
 
 3. 为需要出图的零部件指定工程图节点，在将结构树导出至 SolidWorks 后，SolidWorks 会自动产生关联的图纸文件（一般规划中不必包含工程图）。
 
@@ -163,7 +163,7 @@ Treehouse可以方便地直接导入已完成设计的 SolidWorks 格式三维�
 
 ### 典型过程
 
-![利用Treehouse整理产品结构树的典型过程](http://raynnmc.github.io/image/treehouse/3-1.PNG)
+<img src="http://raynnmc.github.io/image/treehouse/3-1.PNG" alt="利用Treehouse整理产品结构树的典型过程" style="zoom:67%;" />
 
 ### 示例
 
@@ -173,13 +173,13 @@ Treehouse可以方便地直接导入已完成设计的 SolidWorks 格式三维�
 
 2. 将产品的三维总装文件拖入 Treehouse 的工作区域，导入并生成产品结构树，如图 3‑2 所示。
 
-   ![在 Treehouse 中生成产品结构树](http://raynnmc.github.io/image/treehouse/3-2.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/3-2.PNG" alt="在 Treehouse 中生成产品结构树" style="zoom:67%;" />
 
 3. 将结构树打印为 PDF 文件或纸质文件。
 
 4. 导出 Excel 表格，如图 3‑3 所示，并进行编辑；导出的表格中包含了在建模过程中零部件被赋予的所有属性信息，需进行筛选及重排（目前版本的 Treehouse 无法定义导出 Excel 的映射模板，期待后续版本予以更新）。
 
-   ![由结构树导出的 Excel 表格](http://raynnmc.github.io/image/treehouse/3-3.PNG)
+   <img src="http://raynnmc.github.io/image/treehouse/3-3.PNG" alt="由结构树导出的 Excel 表格" style="zoom:67%;" />
 
 更多功能请读者自行探索。
 
