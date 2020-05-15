@@ -1,5 +1,5 @@
 ---
-title: 利用 Treehouse 进行产品结构的规划及整理
+title: 利用 Treehouse 进行产品结构与方案的快速规划
 description: Treehouse 是 SolidWorks 的实用工具之一，提供可视的装配体结构规划、创建、编辑和查看功能。本文首先简要介绍了 Treehouse 的概况，随后以 Treehouse 2018 版本为基础详细探讨了其在产品结构规划、产品方案规划及整理产品结构树等方面的应用，最后做了几点总结和建议。
 categories:
 - 机械设计
