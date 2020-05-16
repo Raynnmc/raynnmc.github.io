@@ -118,9 +118,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
   archives: /archives/
   tags: /tags/
+  categories: /categories/
   about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -281,11 +281,11 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
+links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  闲来偶记: http://hnxydq.github.io/
 
 
 # ---------------------------------------------------------------
