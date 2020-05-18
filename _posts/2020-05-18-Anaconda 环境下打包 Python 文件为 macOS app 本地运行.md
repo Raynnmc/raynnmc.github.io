@@ -52,13 +52,13 @@ tags:
 
 4. 修改 `setup.py` 文件中的 `OPTIONS` 为如下内容：
 
-```python
-OPTIONS = {'argv_emulation': True,
-           'iconfile': '../Resources/AppIcon.icns',
-           'plist':{'PyRuntimeLocations':['/Users/dandy/opt/anaconda3/lib/libpython3.7m.dylib']
-                   }
-          }
-```
+   ```python
+   OPTIONS = {'argv_emulation': True,
+              'iconfile': '../Resources/AppIcon.icns',
+              'plist':{'PyRuntimeLocations':['/Users/dandy/opt/anaconda3/lib/libpython3.7m.dylib']
+                      }
+             }
+   ```
 
 5. 创建 app ：
 
