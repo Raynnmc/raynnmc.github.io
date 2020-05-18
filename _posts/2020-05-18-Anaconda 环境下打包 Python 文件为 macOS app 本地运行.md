@@ -1,6 +1,6 @@
 ---
 title: Anaconda 环境下打包 Python 文件为 macOS app 本地运行
-description: 
+description: 本文总结的方法暂时仅适用于打包 app 后在 macOS 本地运行。
 categories:
 - Python
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## 文件结构
 
-- XX Project
+- xxProject
   - Pyfiles
     - xx.py
   - Resources
@@ -35,7 +35,7 @@ tags:
 1. `cd` 至 Python 文件所在文件夹：
 
    ```python
-   cd /Users/dandy/Documents/XX Project/Pyfiles
+   cd /Users/dandy/Documents/xxProject/Pyfiles
    ```
 
 2. 生成 `setup.py` ：
